@@ -1,4 +1,4 @@
-# Enojon.bat
+# Enojon.bat (◣_◢)
 # Scripts para Cerrar Aplicaciones y Procesos
 
 Este repositorio contiene varios scripts diseñados para cerrar todas las aplicaciones y procesos actuales a nivel de usuario. A continuación se describen los tres tipos de scripts disponibles:
